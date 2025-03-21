@@ -1,6 +1,6 @@
 <h1>Hi, I'm Matt! 👨‍💻</h1>
 
-<h2>Data Analysis Projects:</h2>
+<h2>SQL Projects:</h2>
 
 - <b>Data Exploration</b>
   - [Link to project](https://www.google.com/)
